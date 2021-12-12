@@ -1,4 +1,4 @@
-<h1 align="center"><Post-It React Notes></h1>
+<h1 align="center"><Post-It React Notes>Post-It React Notes</h1>
 
 <p align="center"><project-description></p>
 

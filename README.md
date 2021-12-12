@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Live](<Homepage url> "Live View")
+- [Live](<Homepage https://post-it-react-notes.netlify.app/> "Live View")
 
 - [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
 

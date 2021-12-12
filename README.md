@@ -4,8 +4,6 @@
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
-
 - [Live](<Homepage url> "Live View")
 
 - [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
@@ -41,32 +39,22 @@ Launches the test runner in the interactive watch mode.
 
 For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
 
-### `"serve": "node server"`
-
-For running the server file on you can use this command.
-
-### `npm run serve`
 
 ## Built With
 
 - JavaScript
-- Node
-- NPM
-- Webpack
+- React
 - HTML
 - CSS
 
-## Future Updates
-
-- [ ] Reliable Storage
 
 ## Author
 
-**Rohit Jain**
+**Jermaine Bailey**
 
 - [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [Email](mailto:jermaine@brandnetictechnologies.com?subject=Hi "Hi!")
+- [Website](https://www.brandnetictechnologies.com/ "Welcome")
 
 ## 🤝 Support
 

@@ -6,7 +6,7 @@
 
 - [Live](<https://post-it-react-notes.netlify.app/> "Live View")
 
-- [React Docs](https://reactjs.org/"Issues Page")
+- [React Docs](https://reactjs.org)
 
 - [API](<API Link> "API")
 

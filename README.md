@@ -52,7 +52,7 @@ For running the server and app together I am using concurrently this helps a lot
 
 **Jermaine Bailey**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
+- [Profile](https://jermainebaileyportfolio.netlify.app/)
 - [Email](mailto:jermaine@brandnetictechnologies.com?subject=Hi "Hi!")
 - [Website](https://www.brandnetictechnologies.com/ "Welcome")
 
